@@ -1,5 +1,2 @@
 # LearnGit
-## Bash
-ls<br>
-cd<br>
-mkdir<br>
+1. HelloCargo added.
